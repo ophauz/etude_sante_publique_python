@@ -1,8 +1,13 @@
 ## Réalisez une étude de santé publique avec Python
 
+### Contexte : 
+
+Pour le compte d'une ONG, dresser un état de la malnutrition dans le monde pour l'année 2017.
+
+
 ### Missions :
 
-A partir des [données de la FAO](https://www.fao.org/faostat/fr/#home) (Organisation des Nations Unies pour l'alimentation et l'agriculture), délimiter pour l'année 2017 : 
+A partir des [données de la FAO](https://www.fao.org/faostat/fr/#home) (Organisation des Nations Unies pour l'alimentation et l'agriculture), délimiter, pour l'année 2017 : 
 
 #### - la proportion de personnes en état de sous-nutrition ;
 
@@ -52,4 +57,4 @@ A partir des [données de la FAO](https://www.fao.org/faostat/fr/#home) (Organis
 Le code est visionnable sur le [notebook](ophauz_etude_sante_publique_python_notebook.ipynb) du projet.
 
 
-###### Environnement technique : Jupyter Notebook, Python, Pandas
+##### Environnement technique : Jupyter Notebook, Python, Pandas

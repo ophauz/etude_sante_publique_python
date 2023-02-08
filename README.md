@@ -47,7 +47,9 @@ A partir des [données de la FAO](https://www.fao.org/faostat/fr/#home) (Organis
 ![P4_9](https://user-images.githubusercontent.com/87067133/217356737-53725b81-980b-46bb-aa36-3feca07b3e4d.png)
 
 
-### Code lisible sur le [notebook](ophauz_etude_sante_publique_python_notebook.ipynb) du projet.
+### Code
+
+Le code est visionnable sur le [notebook](ophauz_etude_sante_publique_python_notebook.ipynb) du projet.
 
 
 ###### Environnement technique : Jupyter Notebook, Python, Pandas
